@@ -1,6 +1,6 @@
 # Certificard-ImersaoDev
 ### Description
-📜 A certificate, with HTML and CSS, of the seven projects produced in the dev immersion course, from the Alura course platform.
+📜 A certificate on the seven projects developed in the "Immersion course in development" on the Alura course platform.
 ### Status
 ✔️ Concluded.
 ### Technologies
